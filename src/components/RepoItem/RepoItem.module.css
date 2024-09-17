@@ -1,0 +1,19 @@
+.repo {
+  padding: 8px;
+  border-radius: 8px;
+  background-color: #0000000f;
+
+  .main {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+
+    .img {
+      border-radius: 8px;
+    }
+
+    .link {
+      margin: 0;
+    }
+  }
+}

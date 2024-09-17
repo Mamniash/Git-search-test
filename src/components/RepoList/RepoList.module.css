@@ -1,0 +1,14 @@
+.repoLists {
+  display: flex;
+  gap: 32px;
+  margin: 0 16px;
+
+  .list {
+    overflow: hidden;
+    max-width: 300px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+}

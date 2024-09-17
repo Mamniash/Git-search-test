@@ -1,0 +1,9 @@
+.input {
+  max-width: 300px;
+  width: 100%;
+  padding: 10px 15px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-left: 16px;
+}
